@@ -1,10 +1,10 @@
 import io
-
 import sys
+
 from snowballstemmer.english_stemmer import EnglishStemmer
 from snowballstemmer.french_stemmer import FrenchStemmer
-from snowballstemmer.spanish_stemmer import SpanishStemmer
 from snowballstemmer.german_stemmer import GermanStemmer
+from snowballstemmer.spanish_stemmer import SpanishStemmer
 
 
 def get_stemmer(language):
