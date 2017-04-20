@@ -123,6 +123,7 @@ calculate
 call
 calm
 campaign
+can
 cancel
 capture
 care
