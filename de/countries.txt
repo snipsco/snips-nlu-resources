@@ -1,37 +1,32 @@
-Afghanistan
-Ägypten
-Agypten
 Aegypten
+Aequatorialguinea
+Aethiopien
+Afghanistan
 Agypten
-Åland
+Agypten
 Aland
 Albanien
 Algerien
 Amerikanische Jungferninseln
-Jungferninseln
-Samoa
 Andorra
 Angola
 Anguilla
 Antarktika
 Antigua
-Barbuda
-Äquatorialguinea
 Aquatorialguinea
-Aequatorialguinea
 Argentinien
 Armenien
 Aruba
 Aserbaidschan
-Äthiopien
 Athiopien
-Aethiopien
 Australien
 Bahamas
 Bahrain
 Bangladesch
 Barbados
-India
+Barbuda
+Barthelemy
+Barthélemy
 Belarus
 Belgien
 Belize
@@ -40,17 +35,15 @@ Bermuda
 Bhutan
 Bolivien
 Bosnien
-Herzegowina
 Botsuana
 Bouvetinsel
 Brasilien
-Jungferninseln
 Britisches Territorium im Indischen Ozean
-Brunei Darussalam
 Brunei
+Brunei Darussalam
 Bulgarien
-Burkina Faso
 Burkina
+Burkina Faso
 Burundi
 Cabo Verde
 Chile
@@ -58,28 +51,26 @@ China
 Clipperton
 Cookinseln
 Costa Rica
-Côte d'Ivoire
 Cote d Ivoire
 Cote d'Ivoire
-Dänemark
-Danemark
+Côte d'Ivoire
 Daenemark
+Danemark
 Deutschland
 Dominica
 Dominikanische Republik
 Dschibuti
+Dänemark
 Ecuador
 El Salvador
 Eritrea
 Estland
 Europa
 Falklandinseln
-Färöer
 Fidschi
 Finnland
 Frankreich
-Guayana
-Polynesien
+Färöer
 Gabun
 Gambia
 Gazastreifen
@@ -88,24 +79,27 @@ Ghana
 Gibraltar
 Glorieuses
 Grenada
+Grenadinen
 Griechenland
-Grönland
-Gronland
 Groenland
+Gronland
 Großbritannien
+Grönland
 Guadeloupe
 Guam
 Guatemala
+Guayana
 Guernsey
 Guinea
-Guinea-Bissau
 Guinea Bissau
+Guinea-Bissau
 Guyana
 Haiti
 Heard
-McDonaldinseln
+Herzegowina
 Honduras
 Hongkong
+India
 Indien
 Indonesien
 Insel Man
@@ -121,6 +115,8 @@ Jemen
 Jersey
 Jordanien
 Juan de Nova
+Jungferninseln
+Jungferninseln
 Kaimaninseln
 Kambodscha
 Kamerun
@@ -130,6 +126,7 @@ Katar
 Kenia
 Kirgisistan
 Kiribati
+Kitts und Nevis
 Kleinere Amerikanische Überseeinseln
 Kokosinseln
 Kolumbien
@@ -164,6 +161,7 @@ Mauretanien
 Mauritius
 Mayotte
 Mazedonien
+McDonaldinseln
 Mexiko
 Mikronesien
 Moldau
@@ -176,62 +174,66 @@ Myanmar
 Namibia
 Nauru
 Nepal
+Neuguinea
 Neukaledonien
 Neuseeland
 Nicaragua
-Niederlande
-Niederländische Antillen
-Niederlandische Antillen
 Niederlaendische Antillen
+Niederlande
+Niederlandische Antillen
+Niederländische Antillen
 Niger
 Nigeria
 Niue
-Nördliche Marianen
-Nordliche Marianen
 Noerdliche Marianen
+Nordirland
+Nordliche Marianen
 Norfolkinsel
 Norwegen
-Oman
-Österreich
+Nördliche Marianen
 Oesterreich
+Oman
 Osterreich
 Pakistan
 Palau
-Panama
+PalestinienPanama
 Papua
-Neuguinea
 Paraguay
 Peru
 Philippinen
+Pierre und Miquelon
 Pitcairninseln
 Polen
+Polynesien
 Portugal
+Principe
+Príncipe
 Puerto Rico
-Réunion
 Reunion
 Ruanda
-Rumänien
-Rumanien
 Rumaenien
+Rumanien
+Rumänien
 Russische Föderation
 Russland
-Saint-Martin
+Réunion
 Saint Martin
+Saint-Martin
 Salomonen
 Sambia
 Samoa
+Samoa
 San Marino
-São Tomé
+Sankt Lucia
+Sankt Vincent
 Sao Tome
-Príncipe
-Principe
 Saudi Arabien
+Schottland
 Schweden
 Schweiz
 Senegal
 Serbien
 Serbien
-ontenegro
 Seychellen
 Sierra Leone
 Simbabwe
@@ -242,46 +244,42 @@ Somalia
 Spanien
 Spitzbergen
 Sri Lanka
-Barthélemy
-Barthelemy
-Kitts und Nevis
-St. Lucia
-Sankt Lucia
 St Lucia
-Pierre und Miquelon
-St. Vincent
 St Vincent
-Sankt Vincent
-Grenadinen
-Südafrika
+St. Lucia
+St. Vincent
 Sudafrika
-Suedafrika
 Sudan
-Südsudan
 Sudsudan
+Suedafrika
 Suedsudan
 Suriname
 Swasiland
 Syrien
+São Tomé
+Südafrika
+Südsudan
 Tadschikistan
 Taiwan
 Tansania
 Thailand
-Timor-Leste
 Timor
+Timor-Leste
+Tobago
 Togo
 Tokelau
 Tonga
-Trinidad und Tobago
 Trinidad
-Tobago
+Trinidad und Tobago
 Tromelin
 Tschad
 Tschechische Republik
 Tunesien
-Türkei
 Turkmenistan
 Tuvalu
+Türkei
+US
+USA
 Uganda
 Ukraine
 Ungarn
@@ -293,6 +291,7 @@ Venezuela
 Vereinigte Arabische Emirate
 Vereinigte Staaten
 Vietnam
+Wales
 Wallis und Futuna
 Weihnachtsinsel
 Westjordanland
@@ -300,9 +299,9 @@ Westsahara
 Zentralafrikanische Republik
 Zypern
 die Vereinigten Staaten
-USA
-US
-Schottland
-Nordirland
-Wales
-Palestinien
+ontenegro
+Ägypten
+Äquatorialguinea
+Äthiopien
+Åland
+Österreich

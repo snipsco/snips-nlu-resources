@@ -1,17 +1,17 @@
 Ain
 Aisne
 Allier
-Alpes de Haute Provence
-Hautes Alpes
 Alpes Maritimes
-Ardèche
+Alpes de Haute Provence
 Ardeche
 Ardennes
-Ariège
+Ardèche
 Ariege
+Ariège
 Aube
 Aude
 Aveyron
+Bas Rhin
 Bouches du Rhône
 Calvados
 Cantal
@@ -20,102 +20,101 @@ Charente Maritime
 Cher
 Corrèze
 Corse du Sud
-Haute Corse
-Côte d'Or
 Cote d Or
-Côtes d'Armor
 Cotes d Armor
 Creuse
+Côte d'Or
+Côtes d'Armor
+Deux Sevres
+Deux Sèvres
 Dordogne
 Doubs
-Drôme
 Drome
+Drôme
+Essonne
 Eure
 Eure et Loir
-Finistère
 Finistere
+Finistère
 Gard
-Haute Garonne
 Gers
 Gironde
-Hérault
+Guadeloupe
+Guyane
+Haut Rhin
+Haute Corse
+Haute Garonne
+Haute Loire
+Haute Marne
+Haute Saone
+Haute Savoie
+Haute Saône
+Haute Vienne
+Hautes Alpes
+Hautes Pyrenees
+Hautes Pyrénées
+Hauts de Seine
 Herault
+Hérault
 Ille et Vilaine
 Indre
 Indre et Loire
-Isère
 Isere
+Isère
 Jura
+La ReunionLa Réunion
 Landes
 Loir et Cher
 Loire
-Haute Loire
 Loire Atlantique
 Loiret
 Lot
 Lot et Garonne
-Lozère
 Lozere
+Lozère
 Maine et Loire
 Manche
 Marne
-Haute Marne
+Martinique
 Mayenne
 Meurthe et Moselle
 Meuse
 Morbihan
 Moselle
-Nièvre
 Nievre
+Nièvre
 Nord
 Oise
 Orne
+Paris
 Pas de Calais
-Puy de Dôme
 Puy de Dome
-Pyrénées Atlantiques
+Puy de Dôme
 Pyrenees Atlantiques
-Hautes Pyrénées
-Hautes Pyrenees
-Pyrénées Orientales
 Pyrenees Orientales
-Bas Rhin
-Haut Rhin
-Rhône
+Pyrénées Atlantiques
+Pyrénées Orientales
 Rhone
-Haute Saône
-Haute Saone
-Saône et Loire
+Rhône
 Saone et Loire
 Sarthe
 Savoie
-Haute Savoie
-Paris
+Saône et Loire
 Seine Maritime
+Seine Saint Denis
 Seine et Marne
-Yvelines
-Deux Sèvres
-Deux Sevres
 Somme
 Tarn
 Tarn et Garonne
+Territoire de Belfort
+Val d Oise
+Val d'Oise
+Val de Marne
 Var
 Vaucluse
-Vendée
 Vendee
+Vendée
 Vienne
-Haute Vienne
 Vosges
 Yonne
-Territoire de Belfort
-Essonne
-Hauts de Seine
-Seine Saint Denis
-Val de Marne
-Val d'Oise
-Val d Oise
-Guadeloupe
-Martinique
-Guyane
-La Réunion
-La Reunion
+Yvelines

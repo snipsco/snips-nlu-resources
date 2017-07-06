@@ -1,236 +1,240 @@
-Berlin
-Hamburg
-München
-Munchen
-Muenchen
-Köln
-Koln
-Koeln
-Frankfurt am Main
-Frankfurt
-Stuttgart
-Düsseldorf
-Dusseldorf
-Duesseldorf
-Dortmund
-Essen
-Leipzig
-Bremen
-Dresden
-Hannover
-Nürnberg
-Nuernberg
-Nurnberg
-Duisburg
-Bochum
-Wuppertal
-Bielefeld
-Bonn
-Münster
-Munster
-Muenster
-Karlsruhe
-Mannheim
-Augsburg
-Wiesbaden
-Gelsenkirchen
-Mönchen­gladbach
-Mönchen gladbach
-Moenchen gladbach
-Monchen gladbach
-Braunschweig
-Chemnitz
-Kiel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Aachen
-Halle
-Magdeburg
-Freiburg im Breisgau
-Freiburg
-Krefeld
-Lübeck
-Luebeck
-Lubeck
-Oberhausen
-Erfurt
-Mainz
-Rostock
-Kassel
-Hagen
-Hamm
-Saarbrücken
-Saarbruecken
-Saarbrucken
-Mülheim an der Ruhr
-Mülheim
-Muelheim
-Mulheim
-Potsdam
-Ludwigshafen am Rhein
-Ludwigshafen
-Oldenburg
-Leverkusen
-Osnabrück
-Osnabruck
-Osnabrueck
-Solingen
-Heidelberg
-Herne
-Neuss
-Darmstadt
-Paderborn
-Regensburg
-Ingolstadt
-Würzburg
-Wurzburg
-Wuerzburg
-Fürth
-Furth
-Fuerth
-Wolfsburg
-Offenbach
-Ulm
-Heilbronn
-Pforzheim
-Göttingen
-Bottrop
-Trier
-Recklinghausen
-Reutlingen
-Bremer­haven
-Bremer haven
-Koblenz
-Bergisch Gladbach
-Jena
-Remscheid
-Erlangen
-Moers
-Siegen
-Hildesheim
-Salzgitter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Stadt
 Allentsteig
 Altheim
 Althofen
 Amstetten
+Amstetten
+Ansfelden
 Ansfelden
 Attnang-Puchheim
+Augsburg
 Bad Aussee
 Bad Hall
+Bad Ischl
 Bad Ischl
 Bad Leonfelden
 Bad Radkersburg
 Bad St. Leonhard im Lavanttal
 Bad Vöslau
 Baden
-Bärnbach
+Baden
+Basel
+Bergisch Gladbach
+Berlin
+Bern
 Berndorf
+Biel
+Bielefeld
+Bienne
 Bischofshofen
 Bleiburg
 Bludenz
+Bludenz
+Bochum
+Bonn
+Bottrop
+Braunau
 Braunau am Inn
+Braunau am Inn
+Braunschweig
 Bregenz
+Bregenz
+Bremen
+Bremer haven
+Bremer­haven
 Bruck an der Leitha
 Bruck an der Mur
+Bärnbach
+Chaux de Fonds
+Chaux-de-Fonds
+Chemnitz
+Chur
+Darmstadt
 Deutsch-Wagram
 Deutschlandsberg
+Dietikon
 Dornbirn
+Dornbirn
+Dortmund
+Dresden
 Drosendorf-Zissersdorf
+Dubendorf
+Duebendorf
+Duernstein
+Duesseldorf
+Duisburg
+Dusseldorf
+Dübendorf
 Dürnstein
+Dürnstein
+Düsseldorf
 Ebenfurth
 Ebreichsdorf
 Eferding
 Eggenburg
 Eisenerz
 Eisenstadt
+Eisenstadt
+Emmen
 Enns
+Erfurt
+Erlangen
+Essen
 Fehring
 Feldbach
 Feldkirch
+Feldkirch
+Feldkirchen
+Feldkirchen in Kaernten
+Feldkirchen in Karnten
+Feldkirchen in Kärnten
 Feldkirchen in Kärnten
 Ferlach
 Fischamend
+Frankfurt
+Frankfurt am Main
 Frauenkirchen
+Freiburg
+Freiburg
+Freiburg im Breisgau
 Freistadt
 Friedberg
 Friesach
 Frohnleiten
+Fuerth
+Furth
 Fürstenfeld
+Fürth
 Gallneukirchen
-Gänserndorf
+Gelsenkirchen
+Genf
 Geras
 Gerasdorf bei Wien
 Gföhl
 Gleisdorf
 Gloggnitz
+Gmunden
 Gmünd
 Gmünd in Kärnten
-Gmunden
+Graz
 Graz
 Grein
 Grieskirchen
-Groß-Enzersdorf
 Groß Gerungs
+Groß-Enzersdorf
 Groß-Siegharts
+Gänserndorf
+Göttingen
 Güssing
 Haag
+Hagen
 Hainburg an der Donau
 Hainfeld
 Hall in Tirol
+Halle
 Hallein
+Hallein
+Hamburg
+Hamm
+Hannover
 Hardegg
 Hartberg
+Heidelberg
 Heidenreichstein
+Heilbronn
 Hermagor-Pressegger See
+Herne
 Herzogenburg
+Hildesheim
+Hohenems
 Hohenems
 Hollabrunn
 Horn
 Imst
+Ingolstadt
 Innsbruck
+Innsbruck
+Jena
 Jennersdorf
 Judenburg
 Kapfenberg
+Kapfenberg
+Karlsruhe
+Kassel
+Kiel
 Kindberg
 Kirchdorf an der Krems
 Kirchschlag in der Buckligen Welt
 Kitzbühel
+Klagenfurt
+Klagenfurt am Wörthersee
 Klagenfurt am Wörthersee
 Klosterneuburg
+Klosterneuburg
 Knittelfeld
-Köflach
+Koblenz
+Koeln
+Koeniz
+Koln
+Koniz
 Korneuburg
+Krefeld
+Krems
 Krems an der Donau
+Krems an der Donau
+Kriens
 Kufstein
+Kufstein
+Köflach
+Köln
+Köniz
 Laa an der Thaya
 Laakirchen
+Lancy
 Landeck
 Langenlois
+Lausanne
 Leibnitz
+Leipzig
+Leoben
 Leoben
 Leonding
+Leonding
+Leverkusen
 Lienz
 Liezen
 Lilienfeld
 Linz
+Linz
 Litschau
+Lubeck
+Ludwigshafen
+Ludwigshafen am Rhein
+Luebeck
+Lugano
+Luzern
+Lübeck
+Magdeburg
+Mainz
 Maissau
 Mank
 Mannersdorf am Leithagebirge
+Mannheim
 Marchegg
 Marchtrenk
 Mariazell
@@ -238,189 +242,184 @@ Mattersburg
 Mattighofen
 Mautern an der Donau
 Melk
-Mittersill
 Mistelbach
-Mödling
+Mittersill
+Moenchen gladbach
+Moers
+Monchen gladbach
+MontreuxMuelheim
+Muenchen
+Muenster
+Mulheim
+Munchen
+Munster
 Murau
 Mureck
+Mödling
+Mödling
+Mönchen gladbach
+Mönchen­gladbach
+Mülheim
+Mülheim an der Ruhr
+München
+Münster
 Mürzzuschlag
+Neuenburg
 Neufeld an der Leitha
 Neulengbach
 Neumarkt am Wallersee
 Neunkirchen
 Neusiedl am See
+Neuss
+Nuernberg
+Nurnberg
+Nürnberg
+Oberhausen
 Oberndorf bei Salzburg
 Oberpullendorf
 Oberwart
 Oberwölz
+Offenbach
+Oldenburg
+Osnabruck
+Osnabrueck
+Osnabrück
+Paderborn
 Perg
 Peuerbach
+Pforzheim
 Pinkafeld
-Pöchlarn
+Potsdam
 Poysdorf
 Pregarten
 Pressbaum
 Pulkau
 Purbach am Neusiedler See
 Purkersdorf
+Pöchlarn
 Raabs an der Thaya
 Radenthein
 Radstadt
+Rapperswil Jona
+Rapperswil-Jona
 Rattenberg
+Rattenberg
+Recklinghausen
+Regensburg
+Remscheid
 Retz
+Reutlingen
 Ried im Innkreis
 Rohrbach-Berg
+Rostock
 Rottenmann
 Rust
+Saalfelden
 Saalfelden am Steinernen Meer
+Saalfelden am Steinernen Meer
+Saarbrucken
+Saarbruecken
+Saarbrücken
 Salzburg
+Salzburg
+Salzgitter
 Sankt Andrä
-St. Johann im Pongau
-St. Pölten
-St. Valentin
+Sankt Gallen
+Sankt Poelten
+Sankt Polten
+Sankt Pölten
 Sankt Veit an der Glan
-Schärding
+Schaffhausen
 Scheibbs
 Schladming
+Schrattenthal
 Schrattenthal
 Schrems
 Schwanenstadt
 Schwaz
 Schwechat
+Schwechat
+Schärding
 Seekirchen am Wallersee
+Siegen
+Sitten
+Solingen
 Spielberg
+Spittal
 Spittal an der Drau
+Spittal an der Drau
+St Gallen
+St Poelten
+St Polten
+St Pölten
+St. Gallen
+St. Johann im Pongau
+St. Poelten
+St. Polten
+St. Pölten
+St. Pölten
+St. Valentin
+Stadt
 Stadtschlaining
+Steyr
 Steyr
 Steyregg
 Stockerau
+Stockerau
 Straßburg
+Stuttgart
 Ternitz
+Ternitz
+Thun
+Traiskirchen
 Traiskirchen
 Traismauer
 Traun
+Traun
 Trieben
+Trier
 Trofaiach
 Tulln an der Donau
+Ulm
+Uster
+Vernier
+Villach
 Villach
 Vils
-Vöcklabruck
 Voitsberg
+Vöcklabruck
 Völkermarkt
 Waidhofen an der Thaya
 Waidhofen an der Ybbs
 Weitra
 Weiz
 Wels
+Wels
+Wien
 Wien
 Wiener Neustadt
+Wiener Neustadt
+Wiesbaden
 Wieselburg
 Wilhelmsburg
+Winterthur
 Wolfsberg
+Wolfsberg
+Wolfsburg
 Wolkersdorf im Weinviertel
+Wuerzburg
+Wuppertal
+Wurzburg
 Wörgl
+Würzburg
 Ybbs an der Donau
+Yverdon les Bains
+Yverdon-les-Bains
 Zell am See
 Zeltweg
 Zistersdorf
-Zwettl-Niederösterreich
-Wien
-Dürnstein
-Duernstein
-Schrattenthal
-Rattenberg
-Graz
-Linz
-Salzburg
-Innsbruck
-Klagenfurt am Wörthersee
-Klagenfurt
-Villach
-Wels
-St. Pölten
-St Pölten
-Sankt Pölten
-St. Polten
-St Polten
-Sankt Poelten
-St. Poelten
-St Poelten
-Sankt Polten
-Dornbirn
-Steyr
-Wiener Neustadt
-Feldkirch
-Bregenz
-Leoben
-Wolfsberg
-Klosterneuburg
-Baden
-Krems an der Donau
-Krems
-Traun
-Amstetten
-Kapfenberg
-Leonding
-Mödling
-Hallein
-Braunau am Inn
-Braunau
-Spittal an der Drau
-Spittal
-Traiskirchen
-Kufstein
-Schwechat
-Ternitz
-Saalfelden am Steinernen Meer
-Saalfelden
-Ansfelden
-Stockerau
-Bad Ischl
-Feldkirchen in Kärnten
-Feldkirchen in Karnten
-Feldkirchen in Kaernten
-Feldkirchen
-Hohenems
-Bludenz
-Eisenstadt
-Zürich
-Zurich
 Zuerich
-Genf
-Basel
-Bern
-Lausanne
-Winterthur
-Luzern
-St. Gallen
-St Gallen
-Sankt Gallen
-Lugano
-Biel
-Bienne
-Thun
-Köniz
-Koeniz
-Koniz
-Chaux-de-Fonds
-Chaux de Fonds
-Freiburg
-Schaffhausen
-Chur
-Vernier
-Neuenburg
-Uster
-Sitten
-Lancy
-Yverdon-les-Bains
-Yverdon les Bains
-Emmen
 Zug
-Kriens
-Rapperswil-Jona
-Rapperswil Jona
-Dübendorf
-Dubendorf
-Duebendorf
-Dietikon
-Montreux
+Zurich
+Zwettl-Niederösterreich
+Zürich

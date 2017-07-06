@@ -1,42 +1,42 @@
-Baden-Württemberg
-Baden-Wurttemberg
-Baden-Wuerttemberg
-Baden Württemberg
 Baden Wuerttemberg
 Baden Wurttemberg
+Baden Württemberg
+Baden-Wuerttemberg
+Baden-Wurttemberg
+Baden-Württemberg
 Bayern
 Berlin
 Brandenburg
 Bremen
+Burgenland
 Hamburg
 Hessen
-Mecklenburg-Vorpommern
+Karnten
+Kärnten
 Mecklenburg Vorpommern
+Mecklenburg-Vorpommern
+Niederoesterreich
+Niederosterreich
 Niedersachsen
+Niederösterreich
 Nordrhein Westfalen
 Nordrhein-Westfalen
-Rheinland-Pfalz
+Oberösterreich
+Oberösterreich
+Oberösterreich
 Rheinland Pfalz
+Rheinland-Pfalz
 Saarland
 Sachsen
-Sachsen-Anhalt
 Sachsen Anhalt
-Schleswig-Holstein
-Schleswig Holstein
-Thüringen
-Thuringen
-Thueringen
-Burgenland
-Kärnten
-Karnten
-Niederösterreich
-Niederosterreich
-Niederoesterreich
-Oberösterreich
-Oberösterreich
-Oberösterreich
+Sachsen-Anhalt
 Salzburg
+Schleswig Holstein
+Schleswig-Holstein
 Steiermark
+Thueringen
+Thuringen
+Thüringen
 Tirol
 Vorarlberg
 Wien
