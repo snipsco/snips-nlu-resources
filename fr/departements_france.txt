@@ -1,0 +1,120 @@
+Ain
+Aisne
+Allier
+Alpes Maritimes
+Alpes de Haute Provence
+Ardeche
+Ardennes
+Ardèche
+Ariege
+Ariège
+Aube
+Aude
+Aveyron
+Bas Rhin
+Bouches du Rhône
+Calvados
+Cantal
+Charente
+Charente Maritime
+Cher
+Corrèze
+Corse du Sud
+Cote d Or
+Cotes d Armor
+Creuse
+Côte d'Or
+Côtes d'Armor
+Deux Sevres
+Deux Sèvres
+Dordogne
+Doubs
+Drome
+Drôme
+Essonne
+Eure
+Eure et Loir
+Finistere
+Finistère
+Gard
+Gers
+Gironde
+Guadeloupe
+Guyane
+Haut Rhin
+Haute Corse
+Haute Garonne
+Haute Loire
+Haute Marne
+Haute Saone
+Haute Savoie
+Haute Saône
+Haute Vienne
+Hautes Alpes
+Hautes Pyrenees
+Hautes Pyrénées
+Hauts de Seine
+Herault
+Hérault
+Ille et Vilaine
+Indre
+Indre et Loire
+Isere
+Isère
+Jura
+La ReunionLa Réunion
+Landes
+Loir et Cher
+Loire
+Loire Atlantique
+Loiret
+Lot
+Lot et Garonne
+Lozere
+Lozère
+Maine et Loire
+Manche
+Marne
+Martinique
+Mayenne
+Meurthe et Moselle
+Meuse
+Morbihan
+Moselle
+Nievre
+Nièvre
+Nord
+Oise
+Orne
+Paris
+Pas de Calais
+Puy de Dome
+Puy de Dôme
+Pyrenees Atlantiques
+Pyrenees Orientales
+Pyrénées Atlantiques
+Pyrénées Orientales
+Rhone
+Rhône
+Saone et Loire
+Sarthe
+Savoie
+Saône et Loire
+Seine Maritime
+Seine Saint Denis
+Seine et Marne
+Somme
+Tarn
+Tarn et Garonne
+Territoire de Belfort
+Val d Oise
+Val d'Oise
+Val de Marne
+Var
+Vaucluse
+Vendee
+Vendée
+Vienne
+Vosges
+Yonne
+Yvelines
