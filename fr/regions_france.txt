@@ -1,0 +1,31 @@
+Ile de France
+Champagne Ardenne
+Picardie
+Normandie
+Val de Loire
+Bourgogne
+Pas de Calais
+Lorraine
+Alsace
+Franche Comté
+Pays de la Loire
+Loire
+Bretagne
+Poitou
+Charentes
+Aquitaine
+Pyrénées
+Limousin
+Rhone
+Alpes
+Auvergne
+Languedoc
+Roussillon
+Provence
+Côte d'Azur
+Corse
+Guadeloupe
+Martinique
+Guyane
+La Réunion
+Mayotte
