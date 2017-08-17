@@ -70,3 +70,4 @@ venv/
 ENV/
 
 .idea/
+/scripts/brown-cluster/
