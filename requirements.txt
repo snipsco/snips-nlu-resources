@@ -1,5 +1,7 @@
 babelfish==0.5.5
+nltk==3.2
 subliminal==2.0.5
 tqdm==4.15.0
 pandas==0.20.3
+snowballstemmer==1.2.1
 zhon==1.1.5
