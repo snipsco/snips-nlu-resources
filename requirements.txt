@@ -1,5 +1,7 @@
 babelfish==0.5.5
 nltk==3.2
+spacy==2.0.5
+fire==0.1.2
 subliminal==2.0.5
 tqdm==4.15.0
 pandas==0.20.3
