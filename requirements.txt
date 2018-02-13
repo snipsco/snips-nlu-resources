@@ -1,7 +1,9 @@
 babelfish==0.5.5
+future==0.16.0
 nltk==3.2
 subliminal==2.0.5
 tqdm==4.15.0
 pandas==0.20.3
 snowballstemmer==1.2.1
+wordfreq[mecab,jieba]==1.6.1
 zhon==1.1.5

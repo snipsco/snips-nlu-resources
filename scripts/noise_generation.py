@@ -9,8 +9,11 @@ from collections import defaultdict
 
 import numpy as np
 import pandas as pd
+from future.builtins import str, range
+from future.utils import itervalues, iteritems
+from wordfreq import word_frequency, iter_wordlist
 
-from utils import SCRIPTS_PATH
+from scripts.utils import SCRIPTS_PATH
 
 
 def sample_words(words_frequencies, n_samples, truncate=None):
@@ -23,7 +26,7 @@ def sample_words(words_frequencies, n_samples, truncate=None):
     return np.random.choice(words, size=n_samples, p=probs)
 
 
-def load_en_words_frequencies(truncate=False):
+def load_en_words_frequencies():
     path = os.path.join(SCRIPTS_PATH, "words_frequencies", "count_en.txt")
     sep = "\t"
     freqs = dict()
@@ -37,7 +40,7 @@ def load_en_words_frequencies(truncate=False):
                 continue
             freqs[word] = float(freq)
     total = float(sum(freqs.values()))
-    freqs = {k: v / total for k, v in freqs.iteritems()}
+    freqs = {k: v / total for k, v in iteritems(freqs)}
     return freqs
 
 
@@ -59,7 +62,7 @@ def load_es_words_frequencies():
     df = pd.read_csv(path, sep=";", header=0, index_col=None, encoding="utf8",
                      usecols=cols)
     to_concat = []
-    for i in xrange(3):
+    for i in range(3):
         col_word = "Word{}".format(i)
         col_freq = "Freq. count{}".format(i)
         df_freq = df[[col_word, col_freq]]
@@ -69,7 +72,7 @@ def load_es_words_frequencies():
     df_freqs["freq"] /= float(sum(df_freqs["freq"]))
     freqs = defaultdict(float)
     for row in df_freqs.itertuples():
-        freqs[unicode(row.word).lower()] += row.freq
+        freqs[str(row.word).lower()] += row.freq
     return freqs
 
 
@@ -81,7 +84,7 @@ def load_zh_words_frequencies():
     df["WCount"] /= float(sum(df["WCount"]))
     freqs = defaultdict(float)
     for row in df.itertuples():
-        freqs[unicode(row.Word).lower()] += row.WCount
+        freqs[str(row.Word).lower()] += row.WCount
     return freqs
 
 
@@ -99,8 +102,14 @@ def load_fr_words_frequencies():
                 continue
             freqs[word] = float(freq)
     total = float(sum(freqs.values()))
-    freqs = {k: v / total for k, v in freqs.iteritems()}
+    freqs = {k: v / total for k, v in iteritems(freqs)}
     return freqs
+
+
+def default_words_frequencies(language):
+    freqs = {w: word_frequency(w, language) for w in iter_wordlist(language)}
+    total = float(sum(itervalues(freqs)))
+    return {k: v / total for k, v in iteritems(freqs)}
 
 
 def load_words_frequencies(language):
@@ -115,7 +124,12 @@ def load_words_frequencies(language):
     elif language == "fr":
         words_frequencies = load_fr_words_frequencies()
     else:
-        raise ValueError("Unknown language: " % language)
+        try:
+            words_frequencies = default_words_frequencies(language)
+        except OSError:
+            raise RuntimeError("Properly install mecab")
+        except LookupError:
+            raise OSError("Unknown language: %s" % language)
     return words_frequencies
 
 
@@ -129,10 +143,9 @@ def generate_noise(language, n_words, output_path, truncate=None):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("Generate noise from a words frequency")
-    parser.add_argument("language", type=unicode,
-                        choices=["en", "de", "es", "zh", "fr"])
+    parser.add_argument("language", type=str)
     parser.add_argument("n_words", type=int)
-    parser.add_argument("output_path", type=unicode)
+    parser.add_argument("output_path", type=str)
     parser.add_argument("--truncate", type=int)
     args = parser.parse_args()
     generate_noise(**vars(args))
