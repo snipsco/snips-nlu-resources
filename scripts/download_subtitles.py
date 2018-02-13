@@ -27,6 +27,7 @@ def format_subtitle(text):
 
 def download_series_subtitles(series_name, language,
                               possible_encodings=["utf8"]):
+    print series_name, language, possible_encodings
     subtitles = []
     episode = 0
     season = 1
@@ -36,39 +37,12 @@ def download_series_subtitles(series_name, language,
     while not finished_serie:
         while True:
             episode += 1
+            video = Video.fromname(
+                "%s season %i episode %i" % (series_name, season, episode))
+            best_subtitles = download_best_subtitles(
+                {video}, {Language(language)})
             try:
-                video = Video.fromname(
-                    "%s season %i episode %i" % (series_name, season, episode))
-                best_subtitles = download_best_subtitles(
-                    {video}, {Language(language)})
                 best_subtitle = best_subtitles[video][0]
-
-                try:
-                    episode_subtitles = best_subtitle.content.decode(
-                        current_encoding)
-                except UnicodeDecodeError:
-                    for i, encoding in enumerate(possible_encodings):
-                        try:
-                            episode_subtitles = best_subtitle.content.decode(
-                                encoding)
-                            current_encoding = encoding
-                        except UnicodeDecodeError:
-                            if i == len(possible_encodings) - 1:
-                                raise ValueError(
-                                    "Could not find a valid encoding in %s" %
-                                    possible_encodings)
-                episode_subtitles = format_subtitle(episode_subtitles)
-                episode_subtitles = [m for m in episode_subtitles.split("\n")
-                                     if len(m.strip()) > 0]
-                subtitles += episode_subtitles
-                already_raised_exception = False
-                print(
-                    "Downloaded subtitles from: {series} {season} episode "
-                    "{episode}".format(
-                        series=series_name,
-                        season=season,
-                        episode=episode)
-                )
             except IndexError:
                 if already_raised_exception:
                     finished_serie = True
@@ -78,6 +52,33 @@ def download_series_subtitles(series_name, language,
                 episode = 0
                 season += 1
                 break
+
+            try:
+                episode_subtitles = best_subtitle.content.decode(
+                    current_encoding)
+            except UnicodeDecodeError:
+                for i, encoding in enumerate(possible_encodings):
+                    try:
+                        episode_subtitles = best_subtitle.content.decode(
+                            encoding)
+                        current_encoding = encoding
+                    except UnicodeDecodeError:
+                        if i == len(possible_encodings) - 1:
+                            raise ValueError(
+                                "Could not find a valid encoding in %s" %
+                                possible_encodings)
+            episode_subtitles = format_subtitle(episode_subtitles)
+            episode_subtitles = [m for m in episode_subtitles.split("\n")
+                                 if len(m.strip()) > 0]
+            subtitles += episode_subtitles
+            already_raised_exception = False
+            print(
+                "Downloaded subtitles from: {series} {season} episode "
+                "{episode}".format(
+                    series=series_name,
+                    season=season,
+                    episode=episode)
+            )
 
         if finished_serie:
             break
