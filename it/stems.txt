@@ -1,0 +1,93 @@
+import io
+import sys
+
+import plac
+from snips_nlu_utils import normalize
+
+from inflect import inflect, inflect_word
+from lexemize import get_lexemes
+
+
+def compute_stems(verbs, words, language):
+    words = set(words)
+    normalized_words = set(normalize(w) for w in words)
+    words = words.union(normalized_words)
+    inflections = inflect(words, language)
+    lexemes = get_lexemes(verbs, language)
+    lexemes_lexicon = set()
+    stems = dict()
+
+    for verb, values in lexemes.iteritems():
+        normalized_verb = normalize(verb)
+        normalized_verb = inflect_word(normalized_verb, language)
+        normalized_values = set(normalize(v) for v in values)
+        extended_values = set(values).union(normalized_values)
+        filtered_values = set(v for v in extended_values
+                              if v != normalized_verb)
+        if filtered_values:
+            stems[normalized_verb] = filtered_values
+            lexemes_lexicon.add(normalized_verb)
+            lexemes_lexicon = lexemes_lexicon.union(filtered_values)
+
+    for word, inflection in inflections.iteritems():
+        if inflection == word or word in lexemes_lexicon:
+            continue
+        if inflection not in stems:
+            stems[inflection] = {word}
+        else:
+            stems[inflection].add(word)
+
+    return stems
+
+
+@plac.annotations(
+    language=("Language to use when for stemming", "positional", None, str),
+    verbs_path=("Path to verbs file", "positional", None, str),
+    words_path=("Path to words file", "positional", None, str),
+    output_path=("Path to output file", "positional", None, str))
+def create_stems(language, verbs_path, words_path, output_path):
+    """Create stems from verbs and words using lexemes and stemming"""
+    with io.open(words_path, encoding="utf8") as f:
+        words = [word.strip() for word in f]
+    with io.open(verbs_path, encoding="utf8") as f:
+        verbs = [verb.strip() for verb in f]
+
+    stems = compute_stems(verbs, words, language)
+
+    with io.open(output_path, mode="w", encoding="utf8") as f:
+        for stem, values in stems.iteritems():
+            elements = [stem] + list(values)
+            f.write("%s\n" % ",".join(elements))
+
+
+def apply_stemming(input_path, output_path, stems_path):
+    with io.open(stems_path, encoding="utf8") as f:
+        stems_lines = [line for line in f]
+    stems = dict()
+    for line in stems_lines:
+        elements = line.split(",")
+        stem = elements[0]
+        for value in elements[1:]:
+            stems[value] = stem
+    with io.open(input_path, encoding="utf8") as f:
+        values = [v.strip() for v in f]
+    stemmed_values = [stems.get(v, v) for v in values]
+    unique_values = set()
+    with io.open(output_path, mode="w", encoding="utf8") as f:
+        for stemmed_value in stemmed_values:
+            if stemmed_value not in unique_values:
+                unique_values.add(stemmed_value)
+                f.write("%s\n" % stemmed_value)
+
+
+if __name__ == "__main__":
+    command = sys.argv[1]
+    commands = {
+        "create": create_stems,
+        "apply": apply_stemming
+    }
+    if command not in commands:
+        print("Unknown command: %s" % command)
+        sys.exit(1)
+
+    plac.call(commands[command], sys.argv[2:])
