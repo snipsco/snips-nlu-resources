@@ -5,7 +5,6 @@ des
 den
 dies
 dieser
-ein
 eine
 bitte
 mein
@@ -23,9 +22,7 @@ danach
 und
 aber
 nur
-zu
 zum
-auf
 hallo
 hi
 hey
