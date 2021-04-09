@@ -1,0 +1,13 @@
+{
+  "name": "snips_nlu_ja",
+  "language": "ja",
+  "version": "0.2.1",
+  "description": "Language resources for Japan",
+  "snips-nlu-version": ">=0.1.0,<1.0.0",
+  "author": "Rosa Stern",
+  "email": "rosa.stern@snips.ai",
+  "url": "https://snips-nlu.readthedocs.io",
+  "license": "Apache License, Version 2.0",
+  "noise": "noise",
+  "stop_words": "stop_words"
+}
